@@ -85,15 +85,9 @@ outputs/
 
 ## Visuals & deliverables
 
-Place or generate the following assets in `outputs/`:
+### Total Sales by Customer Segment
 
-- `trial_analysis_plots.pdf` — trial vs control visualisations and diagnostics  
-- `total_sales_by_segment.png` — sales by `LIFESTAGE × PREMIUM_CUSTOMER`  
-- `average_pack_size_by_segment.png` — pack-size behaviour by segment  
-- `Chips_Final_Report_Presentation.pptx` — client-ready presentation (if available)  
-- `Chips_Category_Strategic_Report.docx` — formatted written report (if available)
-
-_Note:_ keep visual style consistent across slides (colours, fonts, series ordering) for client-facing deliverables.
+![Total_Sales_by_Segment](plot_images/total_sales_by_segment.png)
 
 ---
 
