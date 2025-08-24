@@ -9,7 +9,7 @@
 5. [Strategic recommendations (summary)](#strategic-recommendations-summary)  
 6. [Visuals & deliverables](#visuals--deliverables)  
 7. [License](#license)  
-8. [Appendix Useful code snippets](#appendix---useful-code-snippets)
+8. [Appendix Useful code snippets](#appendix-useful-code-snippets)
 
 ---
 
@@ -449,3 +449,4 @@ def trial_summary_df(trial, control, monthly_df, trial_period):
 # summary = trial_summary_df(77, 42, monthly_metrics, trial_period)
 # print(summary)
 ```
+---
