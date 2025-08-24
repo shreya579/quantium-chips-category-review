@@ -95,9 +95,9 @@ outputs/
 
 #### Trial Analysis Plot
 
-![Trial-Analysis-Plot1](plot-images/trial_analysis_plots_page-0001.png)
-![Trial-Analysis-Plot2](plot-images/trial_analysis_plots_page-0002.png)
-![Trial-Analysis-Plot3](plot-images/trial_analysis_plots_page-0003.png)
+![Trial-Analysis-Plot-1](plot-images/trial_analysis_plots_page-0001.jpg)
+![Trial-Analysis-Plot-2](plot-images/trial_analysis_plots_page-0002.jpg)
+![Trial-Analysis-Plot-3](plot-images/trial_analysis_plots_page-0003.jpg)
 
 ---
 
