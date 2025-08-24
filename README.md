@@ -87,7 +87,7 @@ outputs/
 
 ### Total Sales by Customer Segment
 
-![Total_Sales_by_Segment](plot_images/total_sales_by_segment.png)
+![Total_Sales_by_Segment](plot-images/total_sales_by_segment.png)
 
 ---
 
