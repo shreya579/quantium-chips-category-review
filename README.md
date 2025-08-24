@@ -85,9 +85,19 @@ outputs/
 
 ## Visuals & deliverables
 
-### Total Sales by Customer Segment
+#### Total Sales by Customer Segment
 
 ![Total_Sales_by_Segment](plot-images/total_sales_by_segment.png)
+
+#### Aaverage Pack Size by Segment
+
+![Average_Pack_Size_by_Segment](plot-images/average_pack_size_by_segment.png)
+
+#### Trial Analysis Plot
+
+![Trial-Analysis-Plot1](plot-images/trial_analysis_plots_page-0001.png)
+![Trial-Analysis-Plot2](plot-images/trial_analysis_plots_page-0002.png)
+![Trial-Analysis-Plot3](plot-images/trial_analysis_plots_page-0003.png)
 
 ---
 
