@@ -1,5 +1,7 @@
 # 📦 Quantium — Chips Category Review
 
+![Retail_Analytics_wallpaper](Retail_Analytics_wallpaper.jpg)
+
 ## Table of contents
 
 1. [Project summary](#project-summary)  
